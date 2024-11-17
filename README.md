@@ -1,5 +1,5 @@
-# bibliotIA
-📚 BibliotIA
+# librarIA
+📚 LibrarIA
 A digital library eBook-style platform that provides a customizable online reading experience, developed with Django for the backend and React for the frontend.
 
 🛠 Features
