@@ -1,21 +1,21 @@
 # bibliotIA
-BibliotIA é um projeto de biblioteca digital estilo eBook, que permite aos usuários ler e ajustar ambientes de leitura online. Desenvolvido utilizando as tecnologias Django e React, o objetivo é proporcionar uma experiência personalizável e interativa.
+📚 BibliotIA
+A digital library eBook-style platform that provides a customizable online reading experience, developed with Django for the backend and React for the frontend.
 
-Tecnologias Utilizadas
-Django: Framework backend para gerenciamento de dados e lógica do sistema.
-React: Biblioteca frontend para criação de interfaces de usuário dinâmicas e responsivas.
-Funcionalidades
+🛠 Features
+Online eBook Reading: Access books directly in your browser.
+Customizable Environments:
+Change themes (light/dark mode).
+Adjust font size and text spacing.
+Intuitive layout tailored for user comfort.
+User Authentication: Securely create and manage accounts.
+Modern Interface: Designed with a focus on responsiveness and usability.
 
-Leitura de eBooks online.
-Ajuste de configurações do ambiente de leitura, como:
-Alteração de temas (claro/escuro).
-Ajuste do tamanho da fonte.
-Personalização de espaçamento entre linhas.
-Sistema de autenticação para usuários.
-Interface moderna e amigável.
+🚀 Getting Started
+Prerequisites
+Make sure you have the following tools installed:
 
-Como Executar o Projeto
-Pré-requisitos
-Python (versão 3.8 ou superior)
-Node.js (versão 14 ou superior)
-Gerenciador de Pacotes (pip e npm)
+Python (3.8 or later)
+Node.js (14 or later)
+Pip (Python package manager)
+NPM or Yarn (JavaScript package manager)
