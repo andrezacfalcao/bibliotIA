@@ -5,6 +5,7 @@ Tecnologias Utilizadas
 Django: Framework backend para gerenciamento de dados e lógica do sistema.
 React: Biblioteca frontend para criação de interfaces de usuário dinâmicas e responsivas.
 Funcionalidades
+
 Leitura de eBooks online.
 Ajuste de configurações do ambiente de leitura, como:
 Alteração de temas (claro/escuro).
@@ -12,6 +13,7 @@ Ajuste do tamanho da fonte.
 Personalização de espaçamento entre linhas.
 Sistema de autenticação para usuários.
 Interface moderna e amigável.
+
 Como Executar o Projeto
 Pré-requisitos
 Python (versão 3.8 ou superior)
